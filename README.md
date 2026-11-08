@@ -9,4 +9,3 @@ A simple notes application built using HTML, CSS and JavaScript.
 - Dark and light themes
 - Automatic saving using Local Storage
 Created as my first Git practice project.
-Learning Git version control!
